@@ -1,0 +1,10 @@
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Moved: 'hdfs://amp-bdg-master.amp:8020/user/fnothaft/NA12878_high_coverage.mkdup.adam' to trash at: hdfs://amp-bdg-master.amp:8020/user/fnothaft/.Trash/Current
+Moved: 'hdfs://amp-bdg-master.amp:8020/user/fnothaft/NA12878_high_coverage.ri.adam' to trash at: hdfs://amp-bdg-master.amp:8020/user/fnothaft/.Trash/Current
+Moved: 'hdfs://amp-bdg-master.amp:8020/user/fnothaft/NA12878_high_coverage.bqsr.adam' to trash at: hdfs://amp-bdg-master.amp:8020/user/fnothaft/.Trash/Current
+Moved: 'hdfs://amp-bdg-master.amp:8020/user/fnothaft/NA12878_high_coverage.bqsr.bam' to trash at: hdfs://amp-bdg-master.amp:8020/user/fnothaft/.Trash/Current
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit

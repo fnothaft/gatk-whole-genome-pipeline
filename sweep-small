@@ -1,0 +1,8 @@
+Using ADAM_MAIN=org.bdgenomics.adam.cli.ADAMMain
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using ADAM_MAIN=org.bdgenomics.adam.cli.ADAMMain
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using ADAM_MAIN=org.bdgenomics.adam.cli.ADAMMain
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
+Using ADAM_MAIN=org.bdgenomics.adam.cli.ADAMMain
+Using SPARK_SUBMIT=/opt/cloudera/parcels/CDH-5.4.5-1.cdh5.4.5.p0.7/lib/spark//bin/spark-submit
